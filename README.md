@@ -4,18 +4,21 @@
 Implementation of an ETL pipeline with quality control using Great Expectations for retail data.
 
 ## Project Structure
-lab6/  
+
+```tree
+lab6/
 ├── data/
-│   ├── cleaned/ #Cleaned data
-│   └── raw/ #Raw data
-├── notebooks/ # Jupyter notebooks with the full workflow  
-│   ├── 01_extract_and_EDA.ipynb # Extraction and exploratory analysis  
-│   ├── 02_exploratory_DQC.ipynb # Exploratory data quality check  
-│   ├── 03_clean_data.ipynb # Data cleaning  
-│   ├── 04_validation_DQC.ipynb # Post-cleaning validation  
-│   └── 05_visualize_kpis.ipynb # Visualizations and KPIs  
-├── .gitignore # Files to ignore in Git  
-└── README.md # This file  
+│   ├── cleaned/        # Cleaned data
+│   └── raw/            # Raw data
+├── notebooks/          # Jupyter notebooks with the full workflow
+│   ├── 01_extract_and_EDA.ipynb      # Extraction and exploratory analysis
+│   ├── 02_exploratory_DQC.ipynb      # Exploratory data quality check
+│   ├── 03_clean_data.ipynb           # Data cleaning
+│   ├── 04_validation_DQC.ipynb       # Post-cleaning validation
+│   └── 05_visualize_kpis.ipynb       # Visualizations and KPIs
+├── .gitignore          # Files to ignore in Git
+└── README.md           # This file
+ 
 
 ## Requirements
 - Python 3.8+  
