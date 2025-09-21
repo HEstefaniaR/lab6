@@ -18,8 +18,8 @@ lab6/
 │   └── 05_visualize_kpis.ipynb       # Visualizations and KPIs
 ├── .gitignore          # Files to ignore in Git
 └── README.md           # This file
- 
 
+```
 ## Requirements
 - Python 3.8+  
 - Great Expectations  
