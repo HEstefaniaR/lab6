@@ -5,9 +5,9 @@ Implementation of an ETL pipeline with quality control using Great Expectations 
 
 ## Project Structure
 lab6/  
-├── data/ # Raw and cleaned data 
-│   ├── cleaned/
-│   └── raw/
+├── data/
+│   ├── cleaned/ #Cleaned data
+│   └── raw/ #Raw data
 ├── notebooks/ # Jupyter notebooks with the full workflow  
 │   ├── 01_extract_and_EDA.ipynb # Extraction and exploratory analysis  
 │   ├── 02_exploratory_DQC.ipynb # Exploratory data quality check  
