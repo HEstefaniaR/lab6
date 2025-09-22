@@ -26,6 +26,8 @@ lab6/
 - Pandas  
 - Jupyter Notebook  
 - Matplotlib/Seaborn  
+- os
+- xlsxwriter
 
 ## Usage
 Run the notebooks in sequential order:
