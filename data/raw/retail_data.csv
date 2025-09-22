@@ -1,4 +1,4 @@
-id,purchase_date,product_category,amount,customer_id
+customer_id,purchase_date,product_category,amount,transaction_id
 230,2025-05-11,Clothing,181.73,1034
 630,2025-06-19,Electronics,442.32,1020
 867,2025-02-16,Home & Kitchen,263.12,1049
